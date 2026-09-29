@@ -16,3 +16,10 @@ Ordner, die mit einem Punkt beginnen, und `.well-known` käme nie an.
 Der Fingerabdruck in der assetlinks.json gehört zum Signierschlüssel der
 APK (`signing.keystore`). Wird die App je mit einem anderen Schlüssel
 signiert, muss er hier mitgeändert werden.
+
+## Planer.apk
+
+Liegt hier, damit sie sich am Handy ueber eine kurze Adresse laden
+laesst. Die Datei ist nur die Huelle um die Webseite - keine Daten und
+keine Schluessel darin. Der Signierschluessel (signing.keystore) gehoert
+NICHT hierher und darf nie ins Netz.
