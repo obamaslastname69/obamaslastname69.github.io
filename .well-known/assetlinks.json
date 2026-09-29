@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.obamaslastname69.twa",
+        "sha256_cert_fingerprints": ["75:39:04:B2:05:E2:8D:F0:CC:A9:60:DB:9E:51:61:A2:69:9A:B8:1B:4F:3F:03:B8:C6:53:71:ED:63:F1:B0:73"]
+      }
+    }]
