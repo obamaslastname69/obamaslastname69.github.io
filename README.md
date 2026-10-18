@@ -23,3 +23,7 @@ Liegt hier, damit sie sich am Handy ueber eine kurze Adresse laden
 laesst. Die Datei ist nur die Huelle um die Webseite - keine Daten und
 keine Schluessel darin. Der Signierschluessel (signing.keystore) gehoert
 NICHT hierher und darf nie ins Netz.
+
+(Die frueher hier abgelegte Planer.apk war die TWA-Fassung. Sie braucht
+Chrome als Motor und ist deshalb entfernt worden. Die gueltige App liegt
+unter /Planer/app.apk und bringt ihren Motor selbst mit.)
